@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "ස්මාර්ට් පෝලිම කළමනාකරණය",
+    "subtitle": "කාර්යක්ෂම හමුවීම් වෙන්කරවා ගැනීමේ පද්ධතිය"
+  },
+  "nav": {
+    "home": "මුල් පිටුව",
+    "book": "හමුවීමක් වෙන්කරවා ගන්න",
+    "mine": "මගේ හමුවීම්",
+    "admin": "පරිපාලක පිටුව",
+    "logout": "ඉවත්ව යන්න"
+  },
+  "auth": {
+    "login": "ඇතුල් වන්න",
+    "register": "ලියාපදිංචි වන්න",
+    "email": "ඊමේල්",
+    "password": "මුරපදය",
+    "confirmPassword": "මුරපදය තහවුරු කරන්න",
+    "username": "පරිශීලක නාමය",
+    "firstName": "මුල් නම",
+    "lastName": "වාසගම",
+    "phone": "දුරකථන අංකය",
+    "loginTitle": "නැවත සාදරයෙන් පිළිගනිමු",
+    "loginSubtitle": "ඔබේ ගිණුමට ඇතුල් වන්න",
+    "registerTitle": "ගිණුමක් සාදන්න",
+    "registerSubtitle": "අපගේ පෝලිම කළමනාකරණ පද්ධතියට එක් වන්න",
+    "alreadyHaveAccount": "දැනටම ගිණුමක් තිබේ?",
+    "dontHaveAccount": "ගිණුමක් නැත?",
+    "signIn": "ඇතුල් වන්න",
+    "signUp": "ලියාපදිංචි වන්න"
+  },
+  "booking": {
+    "title": "නව හමුවීමක් වෙන්කරවා ගන්න",
+    "service": "සේවාව තෝරන්න",
+    "datetime": "හමුවීමේ දිනය සහ වේලාව",
+    "priority": "ප්‍රමුඛතා මට්ටම",
+    "notes": "අමතර සටහන්",
+    "book": "හමුවීම වෙන්කරවා ගන්න",
+    "success": "හමුවීම සාර්ථකව වෙන්කරවා ගන්නා ලදී!",
+    "priorities": {
+      "NORMAL": "සාමාන්‍ය",
+      "ELDERLY": "වයෝවෘද්ධ",
+      "DISABLED": "ආබාධිත",
+      "EMERGENCY": "හදිසි"
+    }
+  },
+  "appointments": {
+    "title": "මගේ හමුවීම්",
+    "token": "ටෝකනය",
+    "service": "සේවාව",
+    "datetime": "දිනය සහ වේලාව",
+    "priority": "ප්‍රමුඛතාව",
+    "status": "තත්ත්වය",
+    "waitTime": "බලාගැනීමේ කාලය",
+    "estimatedCompletion": "ඇස්තමේන්තුගත නිම",
+    "notes": "සටහන්",
+    "noAppointments": "හමුවීම් හමු නොවිය",
+    "statuses": {
+      "SCHEDULED": "උපලේඛනගත",
+      "WAITING": "බලාගෙන සිටින",
+      "IN_PROGRESS": "ක්‍රියාත්මක වෙමින්",
+      "COMPLETED": "නිම",
+      "CANCELLED": "අවලංගු",
+      "NO_SHOW": "පැමිණියේ නැත"
+    }
+  },
+  "admin": {
+    "title": "පරිපාලක පිටුව",
+    "analytics": "විශ්ලේෂණ",
+    "totalToday": "අද මුළු",
+    "totalAllTime": "සම්පූර්ණ කාලය",
+    "completedToday": "අද සම්පුර්ණ",
+    "currentQueue": "දැනට පෝලිම",
+    "allAppointments": "සියලුම හමුවීම්",
+    "citizen": "පුරවැසියා",
+    "updateStatus": "තත්ත්වය යාවත්කාලීන කරන්න"
+  },
+  "common": {
+    "loading": "පූරණය වෙමින්...",
+    "error": "දෝෂයක් සිදුවිය",
+    "cancel": "අවලංගු කරන්න",
+    "save": "සුරකින්න",
+    "edit": "සංස්කරණය කරන්න",
+    "delete": "මකන්න",
+    "confirm": "තහවුරු කරන්න",
+    "back": "ආපසු",
+    "next": "ඊළඟ",
+    "minutes": "මිනිත්තු",
+    "hours": "පැය",
+    "days": "දින"
+  }
+}

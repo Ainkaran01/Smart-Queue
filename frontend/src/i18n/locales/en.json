@@ -1,0 +1,92 @@
+{
+  "app": {
+    "title": "Smart Queue Management",
+    "subtitle": "Efficient Appointment Booking System"
+  },
+  "nav": {
+    "home": "Home",
+    "book": "Book Appointment",
+    "mine": "My Appointments",
+    "admin": "Admin Dashboard",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone Number",
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Join our queue management system",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+  "booking": {
+    "title": "Book New Appointment",
+    "service": "Select Service",
+    "datetime": "Appointment Date & Time",
+    "priority": "Priority Level",
+    "notes": "Additional Notes",
+    "book": "Book Appointment",
+    "success": "Appointment booked successfully!",
+    "priorities": {
+      "NORMAL": "Normal",
+      "ELDERLY": "Elderly",
+      "DISABLED": "Disabled",
+      "EMERGENCY": "Emergency"
+    }
+  },
+  "appointments": {
+    "title": "My Appointments",
+    "token": "Token",
+    "service": "Service",
+    "datetime": "Date & Time",
+    "priority": "Priority",
+    "status": "Status",
+    "waitTime": "Wait Time",
+    "estimatedCompletion": "Est. Completion",
+    "notes": "Notes",
+    "noAppointments": "No appointments found",
+    "statuses": {
+      "SCHEDULED": "Scheduled",
+      "WAITING": "Waiting",
+      "IN_PROGRESS": "In Progress",
+      "COMPLETED": "Completed",
+      "CANCELLED": "Cancelled",
+      "NO_SHOW": "No Show"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "analytics": "Analytics",
+    "totalToday": "Total Today",
+    "totalAllTime": "All Time",
+    "completedToday": "Completed Today",
+    "currentQueue": "Current Queue",
+    "allAppointments": "All Appointments",
+    "citizen": "Citizen",
+    "updateStatus": "Update Status"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "minutes": "minutes",
+    "hours": "hours",
+    "days": "days"
+  }
+}
